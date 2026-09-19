@@ -1,2 +1,2 @@
 # Ejercicios_Python
-ejercicios aleatorios de python
+Ejercicios aleatorios de python
