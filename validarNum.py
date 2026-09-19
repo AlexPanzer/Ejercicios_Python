@@ -3,3 +3,4 @@ while numero >= 10 :
     numero = int(input("Ingrese de nuevo: "))
 
 print("Gracias")
+print("Trabajamos para usted")
